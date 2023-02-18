@@ -18,6 +18,7 @@
             </e>
           </e>
         </e>
+        <e p="Prefabs" t="Include" />
         <e p="Resources" t="Include" />
         <e p="Scenes" t="Include" />
         <e p="SciFiWarriorPBRHPPolyart" t="Include">
@@ -30,7 +31,10 @@
           <e p="Textures" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="PlayerObserverEventHandler.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
         </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">
