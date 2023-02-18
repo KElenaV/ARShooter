@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(Animator))]
 public class Player : MonoBehaviour
@@ -11,6 +12,10 @@ public class Player : MonoBehaviour
     private int _shootID = Animator.StringToHash("Shoot");
     private float _timeAfterLastShoot;
     private Animator _animator;
+
+    public int Health => _health;
+
+    public event UnityAction<int> HealthChanged;
 
     private void Start()
     {
@@ -32,5 +37,6 @@ public class Player : MonoBehaviour
     public void TakeDamage(int damage)
     {
         _health -= damage;
+        HealthChanged?.Invoke(_health);
     }
 }
