@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PC Game\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PC Game\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ARShooter.2147447344.00" t="ExcludeRecursive" />
+    <e p="D:\Lena\IT\ProjectsUnity\Clones\ARShooter" t="IncludeRecursive">
+      <e p="ARShooter.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="Migration" t="Include">
+            <e p="AddVuforiaEnginePackage.cs" t="Include" />
+          </e>
+          <e p="Vuforia" t="Include">
+            <e p="ImageTargetTextures" t="Include">
+              <e p="ARShooter" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="SciFiWarriorPBRHPPolyart" t="Include">
+          <e p="Animations" t="Include" />
+          <e p="Animators" t="Include" />
+          <e p="Materials" t="Include" />
+          <e p="Mesh" t="Include" />
+          <e p="Prefabs" t="Include" />
+          <e p="Scene" t="Include" />
+          <e p="Textures" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Player.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="ARShooter.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="package" t="Include">
+          <e p="package.json" t="Include" />
+          <e p="Tests" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PackageDetailsTests.cs" t="Include" />
+              <e p="VuforiaPackageTests.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Vuforia" t="Include">
+            <e p="Databases" t="Include">
+              <e p="Emulator" t="Include">
+                <e p="VuforiaEmulator.xml" t="Include" />
+              </e>
+              <e p="ForPrint" t="Include">
+                <e p="Emulator" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="EditorResources" t="Include">
+                <e p="Licenses" t="Include">
+                  <e p="license_3rdpartynotice.txt" t="Include" />
+                  <e p="readme_SDK.txt" t="Include" />
+                </e>
+                <e p="webcamprofiles.xml" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="DefaultObserverEventHandlerEditor.cs" t="Include" />
+                <e p="OpenSourceInitializer.cs" t="Include" />
+                <e p="VuforiaEditorScripts.asmdef" t="Include" />
+              </e>
+            </e>
+            <e p="Materials" t="Include" />
+            <e p="Plugins" t="Include">
+              <e p="Android" t="Include" />
+              <e p="iOS" t="Include">
+                <e p="UnityDriver.framework" t="Include" />
+                <e p="VuforiaEngine.framework" t="Include" />
+              </e>
+              <e p="Managed" t="Include">
+                <e p="Android" t="Include" />
+                <e p="Editor" t="Include" />
+                <e p="iOS" t="Include" />
+                <e p="Runtime" t="Include" />
+                <e p="UWP" t="Include" />
+              </e>
+              <e p="OSXUniversal" t="Include">
+                <e p="universal" t="Include" />
+              </e>
+              <e p="UWP" t="Include">
+                <e p="ARM64" t="Include" />
+                <e p="x64" t="Include" />
+                <e p="x86" t="Include" />
+              </e>
+              <e p="Windows" t="Include">
+                <e p="x64" t="Include" />
+              </e>
+            </e>
+            <e p="Prefabs" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="BarcodeOutlineBehaviour.cs" t="Include" />
+              <e p="BoundingBoxRenderer.cs" t="Include" />
+              <e p="DefaultAreaTargetEventHandler.cs" t="Include" />
+              <e p="DefaultInitializationErrorHandler.cs" t="Include" />
+              <e p="DefaultObserverEventHandler.cs" t="Include" />
+              <e p="Internal" t="Include">
+                <e p="ARFoundationIntegration" t="Include">
+                  <e p="ARFoundationFacade.cs" t="Include" />
+                </e>
+                <e p="RuntimeOpenSourceInitializer.cs" t="Include" />
+              </e>
+              <e p="VuforiaScripts.asmdef" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="BrightTexture.shader" t="Include" />
+              <e p="CameraDiffuse.shader" t="Include" />
+              <e p="ColoredLines.shader" t="Include" />
+              <e p="DepthContour.shader" t="Include" />
+              <e p="DepthMask.shader" t="Include" />
+              <e p="MeshVisualization.shader" t="Include" />
+              <e p="OutlineOpaque.shader" t="Include" />
+              <e p="PointCloudHeightClip.shader" t="Include" />
+              <e p="PointSplat.shader" t="Include" />
+              <e p="PointSplatNoGeom.shader" t="Include" />
+              <e p="Text3D.shader" t="Include" />
+              <e p="UnlitTextureHeightClip.shader" t="Include" />
+              <e p="UnlitVertexColorHeightClip.shader" t="Include" />
+              <e p="VertexLitWithZ.shader" t="Include" />
+              <e p="VideoBackground.shader" t="Include" />
+              <e p="VuforiaVB_RGB.cginc" t="Include" />
+              <e p="VuforiaVB_YUV420P_YUVYV12.cginc" t="Include" />
+              <e p="VuforiaVB_YUVNV12_YUVNV21.cginc" t="Include" />
+              <e p="VuforiaVideoBackground.cginc" t="Include" />
+            </e>
+            <e p="Sprites" t="Include" />
+            <e p="Textures" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="VuforiaEditorScripts.csproj" t="IncludeRecursive" />
+      <e p="VuforiaPackageTests.csproj" t="IncludeRecursive" />
+      <e p="VuforiaScripts.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
